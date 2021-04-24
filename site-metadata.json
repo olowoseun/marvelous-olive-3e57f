@@ -58,7 +58,7 @@
             {
                 "label": "Dribbble",
                 "url": "https://dribbble.com/",
-                "style": "icon",
+                "style": "link",
                 "icon": "github",
                 "new_window": true
             },
